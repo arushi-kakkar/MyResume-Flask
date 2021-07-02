@@ -1,0 +1,42 @@
+{% extends "layout.html" %}
+{% block body %}
+
+
+<section class="resume-section" id="interests">
+                <div class="resume-section-content">
+                    <h2 class="mb-3">{{params['exp']}}</h2>
+                	 
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            {{params['exp_1']}}
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            {{params['exp_2']}}
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            {{params['exp_3']}}
+                        </li>
+                        <li>
+                        	 <span class="fa-li"><i class="fas fa-check"></i></span>
+                            {{params['exp_4']}}
+                        </li>
+                        <li>
+                           
+                    </ul>
+                    
+
+
+
+                    <h2 class="mb-3">{{params['interests']}}</h2>
+                    <p>{{params['interests_1']}}</p>
+                    <p class="mb-0">{{params['interests_2']}}</p>
+                </div>
+            </section>
+            <hr class="m-0" />
+
+
+
+{% endblock %}

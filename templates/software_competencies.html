@@ -1,0 +1,57 @@
+{% extends "layout.html" %}
+{% block body %}
+
+
+<section class="resume-section" id="skills">
+                <div class="resume-section-content">
+                	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+
+                    <h2 class="mb-5">Software Competencies</h2>
+                    
+                    <div class="subheading mb-3">{{params['sc_1']}}</div>
+                    <ul class="list-inline dev-icons">
+                        <li class="list-inline-item"><i class="devicon-windows8-original"></i></li>
+                        <li class="list-inline-item"><i class="devicon-linux-plain"></i></li>
+                        
+                    </ul>
+
+                    <div class="subheading mb-3">{{params['sc_2']}}</div>
+                    <ul class="list-inline dev-icons">
+                        <li class="list-inline-item"><i class="fab fa-html5"></i></li>
+                        <li class="list-inline-item"><i class="devicon-c-plain"></i></li>
+                        <li class="list-inline-item"><i class="devicon-cplusplus-plain"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-python"></i></li>
+                        <li class="list-inline-item"><i class="devicon-flask-original"></i></li>
+                        
+                    </ul>
+                    
+                    <div class="subheading mb-3">{{params['sc_3']}}</div>
+                    <ul class="list-inline dev-icons">
+                        <li class="list-inline-item"><i class="devicon-googlecloud-plain"></i></li>
+                        <li class="list-inline-item"><i class="devicon-mysql-plain"></i></li>
+                        
+                    </ul>
+
+
+                    <div class="subheading mb-3">{{params['sc_4']}}</div>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            {{params['oi_1']}}
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            {{params['oi_2']}}
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            {{params['oi_3']}}
+                        </li>
+                        <li>
+                           
+                    </ul>
+                </div>
+            </section>
+            <hr class="m-0" />
+
+  {% endblock %}

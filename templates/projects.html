@@ -1,0 +1,31 @@
+{% extends "layout.html" %}
+{% block body %}
+
+<section class="resume-section" id="education">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Projects</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">{{params['project1_name']}}</h3>
+                            <div class="subheading mb-3">{{params['project1_technology']}}</div>
+                            <div><a class="social-icon" href="{{params['project1_githublink']}}">{{params['project1_githublink']}}</a></div>
+                            <p>{{params['project1_description']}}</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary"></span></div>
+                    </div>
+                        
+
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">{{params['project2_name']}}</h3>
+                            <div class="subheading mb-3">{{params['project2_technology']}}</div>
+                            <div>{{params['project2_githublink']}}</div>
+                            <p>{{params['project2_description']}}</p>
+                        </div>
+                        
+                </div>
+
+            </section>
+            <hr class="m-0" />
+
+{% endblock %}

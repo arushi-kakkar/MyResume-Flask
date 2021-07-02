@@ -1,0 +1,68 @@
+{
+    "params":
+    {
+        "f_name":"Arushi",
+        "l_name":"Kakkar",
+        "tw_url":"https://twitter.com/kakkar_arushi",
+        "fb_url":"https://m.facebook.com/dazzling.arushi?ref=bookmarks",
+        "linkedin_url":"https://www.linkedin.com/in/arushi-kakkar-4926911ba/",
+        "basic_info":"121 Ram Nagar | Karnal, 132001 | +91-9467224776 |",
+        "email":"csecec.arushi@gmail.com",
+        "about_text":"I am a student of Computer Science Engineering at Chandigarh Engineering College,Landran.",
+        "college_name":"Chandigarh Engineering College,Landran",
+        "college_degree":"Bachelor of Technology (B.Tech)",
+        "course":"Computer Science",
+        "percentage":"Percentage:80%",
+        "degree_year":"2022",
+        "12_school":"Pratap Public School,Karnal (CBSE)",
+        "12_percentage":"Percentage:91%",
+        "12_year":"2018",
+        "12_degree":"XII",
+        "10_school":"Pratap Public School,Karnal (CBSE)",
+        "10_percentage":"Percentage:95%",
+        "10_year":"2016",
+        "10_degree":"X",
+        "sc_1":"Operating Systems",
+        "sc_2":"Programming Languages and Tools",
+        "sc_3":"Database(s) Known",
+        "sc_4":"Other Interests",
+        "oi_1":"Machine Learning",
+        "oi_2":"Artificial Intelligence",
+        "oi_3":"Adobe",
+        "exp":"Experiental Learning",
+        "exp_1":"Core team member of the Google Developer Students Club at CGC.",
+        "exp_2":"Participated in Smart India Hackathon 2020.",
+        "exp_3":"Coordinator of the Pheonix Club of the CSE Department and organized various events.",
+        "exp_4":" Domain Lead of the Social Media team at DSC CGC.",
+        "interests":"Interests",
+        "interests_1":"Apart from being a web developer, I enjoy most of my time being outdoors. I love to interact with people to have discussion on common issues. I also love to explore nature and do photography.",
+        "interests_2":"When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I love to read self development books, and I am also fond of dancing.",
+        "skills_1":"Good knowledge of data structures and other logical and programming skills.",
+        "skills_2":"Inquisitiveness to learn and implement new technologies quickly.",
+        "skills_3":"Adaptability.",
+        "skills_4":"Great written and oral communication skills.",
+        "skills_5":"Good team working ability.",
+        "skills_6":"High level of energy and proactive nature.",
+        "awards_1":"Participated in National Convention of 4th AICTE - Chhatra Vishwakarma Awards (2021).",
+        "awards_2":"Awarded with Certificate and prizes for completing both the tracks of 30-day Google Cloud by Google(2020).",
+        "awards_3":"Secured third position in Project Display in Smart India Hackathon-Phase 1(2019).",
+        "awards_4":"Certificate of excellence from Mathworks Training Services in Machine Learning Onramp and Deep Learning Onramp(2020).",
+        "awards_5":"Certificate of Appreciation from VMware IT Academy in Network Virtualization Concepts and Software defined Storage Concepts(2020)",
+        "project1_name":"Virtual Voice Assistant",
+        "project1_technology":"Python",
+        "project1_githublink":"https://github.com/arushi-kakkar/VirtualVoice-assistant",
+        "project1_description":"It is a voice assistant which can perform various tasks such as sending emails on our behalf,playing music for us,perform Wikipedia searches for us.It is also capable of opening websites such as Google,Youtube etc. in a web browser.",
+        "project2_name":"My Resume",
+        "project2_technology":"Python Flask",
+        "project2_githublink":"",
+        "project2_description":"My own CV/Resume using Python Flask.SQLAlchemy and Jinja template have also been used for template inheritance."
+        
+
+        
+
+
+
+
+        
+    }
+}
