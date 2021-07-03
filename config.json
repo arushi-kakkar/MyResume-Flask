@@ -6,6 +6,7 @@
         "tw_url":"https://twitter.com/kakkar_arushi",
         "fb_url":"https://m.facebook.com/dazzling.arushi?ref=bookmarks",
         "linkedin_url":"https://www.linkedin.com/in/arushi-kakkar-4926911ba/",
+        "github_url":"https://github.com/arushi-kakkar",
         "basic_info":"121 Ram Nagar | Karnal, 132001 | +91-9467224776 |",
         "email":"csecec.arushi@gmail.com",
         "about_text":"I am a student of Computer Science Engineering at Chandigarh Engineering College,Landran.",
@@ -54,7 +55,7 @@
         "project1_description":"It is a voice assistant which can perform various tasks such as sending emails on our behalf,playing music for us,perform Wikipedia searches for us.It is also capable of opening websites such as Google,Youtube etc. in a web browser.",
         "project2_name":"My Resume",
         "project2_technology":"Python Flask",
-        "project2_githublink":"",
+        "project2_githublink":"https://github.com/arushi-kakkar/MyResume-Flask",
         "project2_description":"My own CV/Resume using Python Flask.SQLAlchemy and Jinja template have also been used for template inheritance."
         
 
